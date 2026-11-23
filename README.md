@@ -49,6 +49,6 @@ Python · pandas · scikit-learn · SHAP · Power BI · Google Colab
 | File | Description |
 |---|---|
 | [churn_prediction.ipynb](churn_prediction.ipynb) | Full analysis: data prep, models, SHAP |
-| [Elevator_Pitch.pdf](Project_Presentation.pptx) | 7-slide project summary |
+| [Project_Presentation.pdf](Project_Presentation.pdf) | 7-slide project summary |
 | [Project_Report.pdf](Project_Report.pdf) | Detailed project report |
 | [customer_data_clean.xlsx](customer_data_clean.xlsx) | Cleaned and aggregated datasets |
