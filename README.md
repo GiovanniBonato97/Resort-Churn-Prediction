@@ -44,6 +44,11 @@ Logistic Regression, Decision Tree and Random Forest were compared. F1 was used 
 ## Tools
 Python · pandas · scikit-learn · SHAP · Power BI · Google Colab
 
+
 ## Files
-- `notebook.ipynb` – full analysis
-- `report.pdf` – project report
+| File | Description |
+|---|---|
+| [churn_prediction.ipynb](churn_prediction.ipynb) | Full analysis: data prep, models, SHAP |
+| [Elevator_Pitch.pdf](Elevator_Pitch.pdf) | 7-slide project summary |
+| [Project_Report.pdf](Project_Report.pdf) | Detailed project report |
+| [customer_data_clean.xlsx](customer_data_clean.xlsx) | Cleaned and aggregated datasets |
